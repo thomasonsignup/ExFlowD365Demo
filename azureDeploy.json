@@ -10,8 +10,9 @@
         },
         "vmSize": {
             "type": "string",
+            "defaultValue":"Standard_D13",
             "metadata": {
-                "description": "Selec the vm size"
+                "description": "Select the vm size"
             }
         },
         "dnsName": {
